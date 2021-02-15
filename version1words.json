@@ -1,0 +1,44 @@
+{
+  "words": [
+    {
+      "path": "testwords/set1/t1.wav",
+      "instruction":"הטי/הטה את המילה לצורת הנקבה"
+    },
+    {
+      "path": "testwords/set1/t2.wav",
+      "instruction":"הטי/הטה את המילה לצורת הנקבה"
+    },
+    {
+      "path": "testwords/set1/t3.wav",
+      "instruction":"הטי/הטה את המילה לצורת הנקבה"
+    },
+    {
+      "path": "testwords/set1/t4.wav",
+      "instruction":"הטי/הטה את המילה לצורת הנקבה"
+    },
+    {
+      "path": "testwords/set1/t5.wav",
+      "instruction":"הטי/הטה את המילה לצורת הנקבה"
+    },
+    {
+      "path": "testwords/set1/t6.wav",
+      "instruction":"הטי/הטה את המילה לצורת הנקבה"
+    },
+    {
+      "path": "testwords/set1/t7.wav",
+      "instruction":"הטי/הטה את המילה לצורת הנקבה"
+    },
+    {
+      "path": "testwords/set1/t8.wav",
+      "instruction":"הטי/הטה את המילה לצורת הנקבה"
+    },
+    {
+      "path": "testwords/set1/t9.wav",
+      "instruction":"הטי/הטה את המילה לצורת הנקבה"
+    },
+    {
+      "path": "testwords/set1/t10.wav",
+      "instruction":"הטי/הטה את המילה לצורת הנקבה"
+    }
+  ]
+}

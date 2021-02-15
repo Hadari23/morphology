@@ -1,0 +1,29 @@
+.main-window{
+  position: absolute;
+  top: 30%;
+  left: 35%;
+  width: 500px;
+  height: 200px;
+  text-align: center;
+}
+
+p {
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+}
+
+button {
+  width: 100px;
+}
+
+
+.instructions{
+  position: absolute;
+  top: 30%;
+  left: 35%;
+  width: 550px;
+  text-align: center;
+}
